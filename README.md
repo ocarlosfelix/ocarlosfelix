@@ -1,19 +1,19 @@
 ### Olá! Eu sou o Carlos Félix <img align="center" alt="HTML" height="15" width="20" src="https://flagicons.lipis.dev/flags/4x3/br.svg">
 
 <div>
-Estudante de Javascript, React e React Native.
-Busco me inserir na área de desenvolvimento web e mobile a fim de conquistar pleno domínio da lógica de programação em múltiplas linguagens, buscando soluções simples, criativas e eficientes para os mais diversos desafios.
+Estudante de Python, Javascript, React e React Native.
+Me encontro em um momento de transição de carreira. Venho da área da comunicação e busco me inserir na área de desenvolvimento web e mobile.
 Tenho experiência com trabalho em equipe, gestão de projetos e uso de metodologias ágeis.
-Tenho conhecimento em linguagem C++ com foco em sistemas de automação residencial.
+Tenho algum conhecimento em linguagem C++ com foco em sistemas de automação.
 </div>
   
 ### Hi there! I'm Carlos Félix <img align="center" alt="HTML" height="15" width="20" src="https://flagicons.lipis.dev/flags/4x3/gb.svg">
 
 <div>
-Javascript, React and React Native student.
-I seek to insert myself in web and mobile development area in order to master programming logic in multiple languages, seeking simple, creative and efficient solutions for the most diverse challenges.
+Python, Javascript, React and React Native student.
+I'm in a carrer transition period. I came from communications carrer and I seek to insert myself in web and mobile development area.
 I have experience with teamwork, project management and agile methodologies.
-I have knowledge in C++ language focusing on home automation systems.
+I have some knowledge in C++ language focusing on home automation systems.
 </div>
 
 ##
