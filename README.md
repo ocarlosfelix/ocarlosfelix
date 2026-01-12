@@ -1,19 +1,13 @@
 ### Olá! Eu sou o Carlos Félix <img align="center" alt="HTML" height="15" width="20" src="https://flagicons.lipis.dev/flags/4x3/br.svg">
 
 <div>
-Estudante de Python, Javascript, React e React Native.
-Me encontro em um momento de transição de carreira. Venho da área da comunicação e busco me inserir na área de desenvolvimento web e mobile.
-Tenho experiência com trabalho em equipe, gestão de projetos e uso de metodologias ágeis.
-Tenho algum conhecimento em linguagem C++ com foco em sistemas de automação.
+Desenvolvedor Full Stack detalhista com forte experiência em React, Next.js, PostgreSQL e Prisma. Especializado em criar sistemas web completos - desde interfaces front-end até back-ends operacionais complexos - com foco em clareza, performance e escalabilidade.
 </div>
   
 ### Hi there! I'm Carlos Félix <img align="center" alt="HTML" height="15" width="20" src="https://flagicons.lipis.dev/flags/4x3/gb.svg">
 
 <div>
-Python, Javascript, React and React Native student.
-I'm in a carrer transition period. I came from communications carrer and I seek to insert myself in web and mobile development area.
-I have experience with teamwork, project management and agile methodologies.
-I have some knowledge in C++ language focusing on home automation systems.
+A detail-oriented Full Stack Developer with strong experience in React, Next.js, PostgreSQL, and Prisma. Skilled in building complete web systems - from front-end interfaces to complex operational back-ends - with a focus on clarity, performance, and scalability.
 </div>
 
 ##
